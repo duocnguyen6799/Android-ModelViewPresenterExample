@@ -1,4 +1,6 @@
 # Android-ModelViewPresenterExample
+MVP model
+![alt text](https://github.com/duocnguyen6799/Android-ModelViewPresenterExample/blob/master/MVP_model.png?raw=true)
 # Model
 In an application with a good layered architecture, this model would only be the gateway to the domain layer or business logic. See it as the provider of the data we want to display in the view. Model’s responsibilities include using APIs, caching data, managing databases and so on.
 # View
